@@ -34,15 +34,17 @@
 
 ## Expected Outputs
 
-- ...
+- An interactive relocation route map.
+- A paper analyzing the historical significance of relocation.
 
 ## Working hypotheses
 
-- ...
+- The relocation routes can be classified into three types according to the moving methods.
+- This roadmap will be dynamic, and the three visualized routes will be presented in chronological order respectively.
 
 ## Challenges and Risks
 
-- ...
+My digital technology skills are not proficient enough, and I may not be able to display the routes in chronological order  dynamically. Besides, changing the background map of the relocation routes into a former map is also challenging.
 
 ## Action Items
 
