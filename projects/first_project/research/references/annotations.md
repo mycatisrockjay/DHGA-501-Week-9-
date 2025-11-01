@@ -43,14 +43,15 @@
 - Annotation: 西南联大内迁的历史背景及必要性。
 
 ## No. 9
-- Source:
-- Original: 
-- Annotation:
+- Source: 刘守华：《长沙到昆明:烽火岁月迁校路》《档案春秋》,2018年第6期，34页
+- Original: “1938年4月26日，旅行团抵达昆明。”
+- Annotation: 湘黔滇旅行团到达昆明时间，可作为可视化路线图时间线数据。
 
 ## No. 10
 - Source:
 - Original:
 - Annotation:
+
 
 
 
