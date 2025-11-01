@@ -14,7 +14,7 @@
 - When: During the Anti-Japanese War.
 - Where: From Changsha province to Yunnan province.
 - What: The relocation and merger of a higher education institution, which was called The Southwest Associated University.
-- Why: 
+- Why: After the full-scale outbreak of the War of Resistance Against Japan, in order to prevent Chinese education from the ravages of invasion, some universities in North China and coastal cities had to relocate inland, among which was the Southwestern Associated University.
 
 ## Research Puzzles
 
@@ -30,7 +30,8 @@
 
 ## Data and Sources
 
-- ...
+- Select key cities by reading primary and secondary resources.
+- Use navigation apps to match longitude and latitude of each city.
 
 ## Expected Outputs
 
@@ -48,6 +49,7 @@ My digital technology skills are not proficient enough, and I may not be able to
 
 ## Action Items
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [1] Collection of literature and historical sources:
+- [2] Data collection and processing
+- [3] Roadmap visualization
+- [4] Analysis of the Significance of Relocation
