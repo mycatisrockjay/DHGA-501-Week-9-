@@ -10,7 +10,7 @@
 ## No. 2
 - Source: 史晓宇,诸芳：《发扬西南联大爱国主义精神筑牢文化自信之基》《云南社会主义学院学报》,2020年第1期，92-93页.
 - Original: “据统计,就读于西南联大的学生8000余人,毕业3882人。期间走出了2位诺贝尔奖得主,6位国家最高科学技术奖获得者,8位“两弹一星”元勋,9 位党和国家领导人,173位两院院士,100多位名师巨匠等一大批享誉世界的栋梁之才,为中华民族的教育科学文化事业等作出了重大贡献。”
-- Annotation: 西南联大内迁对中文民族教育及科学事业的重要性。
+- Annotation: 在资源极度匮乏的条件下，西南联大仍保持高水平的人才输出，体现了西南联大内迁对中华民族教育事业及国家发展的重要性。
 
 ## No. 3
 - Source: Shifflett, C. (2007). Seeing the past: Digital history as new model scholarship. MERLOT Journal of Online Learning and Teaching, 3(1), 59.
@@ -44,18 +44,14 @@
 
 ## No. 9
 - Source:
-- Original:
-- Annotation:
-
-## No. 9
-- Source:
-- Original:
+- Original: 
 - Annotation:
 
 ## No. 10
 - Source:
 - Original:
 - Annotation:
+
 
 
 
