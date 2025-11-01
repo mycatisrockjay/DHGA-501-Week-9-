@@ -13,14 +13,14 @@
 - Annotation: 西南联大内迁对中文民族教育及科学事业的重要性。
 
 ## No. 3
-- Source:
-- Original:
-- Annotation:
+- Source: Shifflett, C. (2007). Seeing the past: Digital history as new model scholarship. MERLOT Journal of Online Learning and Teaching, 3(1), 59.
+- Original: “historians have the tools to open new vistas on past worlds and also pave the way to study history comparatively”
+- Annotation: 阐述本项目对西南联大内迁路线进行可视化的可行性。
 
 ## No. 4
-- Source:
-- Original:
-- Annotation:
+- Source: 刘守华：《长沙到昆明:烽火岁月迁校路》《档案春秋》,2018年第6期，32页
+- Original: “西迁的队伍兵分三路：大部分教师及家眷、全体女生及体弱男生，采用陆海并用方式，乘船与火车，经香港辗转赴滇；冯友兰、朱自清、陈岱孙等教授乘汽车到越南，再由滇越铁路入昆明。此外，由体壮男生组建“湘黔滇旅行团”，将靠两条腿，徒步完成跨越3省的远征。”
+- Annotation: 阐明内迁队伍的分类方式，可用于可视化路线图数据分类。
 
 ## No. 5
 - Source:
@@ -51,3 +51,4 @@
 - Source:
 - Original:
 - Annotation:
+
